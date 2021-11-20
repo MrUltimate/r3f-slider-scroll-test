@@ -1,0 +1,34 @@
+{
+  "name": "portfolio-r3f-2022",
+  "version": "1.0.0",
+  "private": true,
+  "description": "portfolio-r3f-2022",
+  "author": "Shivam Sinha",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@react-spring/three": "^9.3.0",
+    "@react-three/drei": "^7.20.5",
+    "@react-three/fiber": "^7.0.19",
+    "@types/three": "^0.134.0",
+    "babel-plugin-styled-components": "^1.13.3",
+    "gatsby": "^4.1.3",
+    "gatsby-plugin-styled-components": "^5.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-use-gesture": "^9.1.3",
+    "styled-components": "^5.3.3",
+    "three": "^0.134.0",
+    "use-tweaks": "^0.3.1",
+    "valtio": "^1.2.6",
+    "zustand": "^3.6.5"
+  }
+}
